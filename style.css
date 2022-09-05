@@ -129,7 +129,7 @@ font-family: 'Roboto Condensed', sans-serif;
 .slide2-text{
   position: absolute;
   bottom:0px;
-  padding:15vh 5em 0px 20px;
+  padding:15vh 5em 0px 6em;
   width: 100%;
   height: 40vh;
   color:white;
