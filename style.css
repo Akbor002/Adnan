@@ -23,7 +23,7 @@ font-family: 'Roboto Condensed', sans-serif;
   
 }
 .cover{
-  background-image: linear-gradient(to left,rgba(0,0,0,0.1), rgba(22,0,0,0.5)), url('/images/cover.jpg');
+  background-image: linear-gradient(to left,rgba(0,0,0,0.1), rgba(22,0,0,0.5)), url('cover.jpg');
   width: 100%;
   background-size: cover;
   display: block;
