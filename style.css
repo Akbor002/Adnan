@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Mukta:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+body{
+  font-family: 'Dosis', sans-serif;
+font-family: 'Mukta', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Dosis', sans-serif;
+  font-weight: bolder;
+}
+
+.nav-link{
+  color: white  !important;
+  font-weight: bold;
+  padding:15px  !important; 
+  font-family: 'Dosis', sans-serif;
+}
+.nav-link:hover{
+  background: rgba(0,0,0,0.1);
+  font-weight: bolder;
+  color: greenyellow  !important;
+  
+}
+.cover{
+  background-image: linear-gradient(to left,rgba(0,0,0,0.1), rgba(22,0,0,0.5)), url('/images/cover.jpg');
+  width: 100%;
+  background-size: cover;
+  display: block;
+}
+.cover-text{
+  padding: 30% 0px 100px 0px;
+
+ 
+}
+.cover-text h5{
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.cover-text h3{
+  color: greenyellow;
+  font-weight: bold;
+  padding: 5px 0px;
+  font-family: 'Dosis', sans-serif;
+}
+.cover-text p{
+  color: white;
+  padding: 5px 0px;
+  font-family: 'Mukta', sans-serif;
+}
+.info-btn{
+  color: greenyellow  !important;
+  font-weight: bold;
+  font-family: 'Mukta', sans-serif;
+}
+
+.title{
+  color: green;
+  padding: 50px 0px 10px  0px;
+  font-weight: bolder ;
+  font-family: 'Dosis', sans-serif;
+
+}
+.about{
+  margin: 0px  !important;
+  padding: 5px  !important;
+  width: 100%;
+}
+.about-img{
+  border: 5px solid red;
+  border-radius:10px;
+  width: 100%;
+  display: block;
+  padding: 25px !important
+
+}
+.about-img img{
+  display: block;
+  width: 100%;
+  height: 27em;
+  box-shadow: 0px 0px 40px greenyellow;
+
+
+}
+.about-text{
+  padding-top:10px;
+  background: lightgray;
+}
+.about-text h3{
+  padding: 10px 20px;
+  color: red;
+  font-family:serif;
+}
+.about-text p{
+  padding:10px 20px;
+  font-family: 'Dosis', sans-serif;
+  
+}
+.about-text input{
+  margin:10px 20px;
+  color: white;
+  background: green;
+  color: white;
+  font-family: 'Mukta', sans-serif;
+}
+.d-block{
+  height: 20em;
+}
+.slide1-text {
+  position: absolute;
+  bottom: 0px;
+  padding:1em 3em 0em 50%;
+  width: 100%;
+  height: 20em;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+
+}
+
+.slide1-text h3 {
+  color: greenyellow;
+  font-weight: bolder;
+  font-family: 'Dosis', sans-serif;
+}
+
+.slide1-text p {
+  font-family: 'Mukta', sans-serif;
+}
+.slide2-text{
+  position: absolute;
+  bottom:0px;
+  padding:5em 20px 0px 20px;
+  width: 100%;
+  height: 20em;
+  color:white;
+  background: rgba(0,0,0,0.5);
+  
+}
+
+.slide2-text h3{
+  color: greenyellow;
+  font-weight: bolder;
+  font-family: 'Dosis', sans-serif;
+}
+.slide2-text p{
+  font-family: 'Mukta', sans-serif;
+}
+.slide3-text {
+  position: absolute;
+  bottom: 0px;
+  padding: 3em 20px 0px 50%;
+  width: 100%;
+  height: 20em;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+
+}
+
+.slide3-text h3 {
+  color: greenyellow;
+  font-weight: bolder;
+  font-family: 'Dosis', sans-serif;
+}
+
+.slide3-text p {
+  font-family: 'Mukta', sans-serif;
+}
+.blog-title {
+  font-family: 'Roboto Condensed', sans-serif;
+  padding-top: 10px;
+}
+.blog1-btn{
+  margin:0px 30%  !important;
+  padding: 5px 20px  !important;
+}
+
+.blog1-img{
+  height: 20em;
+  width: 80%;
+  margin:0% 10%;
+}
+.blog{
+  padding-bottom:25px  !important;
+  border: 5px solid white;
+}
+.contact img {
+  width: 80%;
+  margin:80px 0px 0px 10% !important;
+}
+.contact h3{
+  color: green;
+  font-weight: bold;
+  font-family: 'Mukta', sans-serif;
+}
+.ctn-btn{
+  color: rebeccapurple  !important;
+  font-weight: bold;
+  font-family: 'Mukta', sans-serif;
+}
+.contact{
+  font-family: 'Roboto Condensed', sans-serif;
+   padding-left:50px  !important;
+}
+.contact h6{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bolder;
+}
+.massage {
+  height: 10em;
+}
